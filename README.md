@@ -1,10 +1,6 @@
-# rest_api_integration_youtube
-
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Obtain an API key from https://newsapi.org/
 
 A few resources to get you started if this is your first Flutter project:
 
