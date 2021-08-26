@@ -22,7 +22,7 @@ It relies on the [Provider package](https://pub.dev/packages/provider) for state
 </div>
 
   
-## Tech Stack
+##  Stack
 
 **Framework:** Flutter
 
